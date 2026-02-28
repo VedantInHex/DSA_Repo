@@ -10,7 +10,9 @@ Output: 3
 
 Explanation:
 
-The input binary string 1011 has a total of three set bits.*/
+The input binary string 1011 has a total of three set bits.
+
+this code does not work beacause it is in a Method .though it can be used directly in a program by calling it */
 
 class Solution
 {
