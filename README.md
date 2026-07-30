@@ -10,6 +10,7 @@ This Repository is totaly based on the Data structure and algorithms related pro
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VedantInHex/DSA_Repo/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/VedantInHex/DSA_Repo/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
