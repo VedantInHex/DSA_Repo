@@ -13,6 +13,7 @@ This Repository is totaly based on the Data structure and algorithms related pro
 | ------- |
 | [0007-reverse-integer](https://github.com/VedantInHex/DSA_Repo/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/VedantInHex/DSA_Repo/tree/master/0231-power-of-two) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VedantInHex/DSA_Repo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
